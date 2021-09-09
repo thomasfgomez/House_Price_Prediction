@@ -1,5 +1,5 @@
 # House_Price_Prediction
-Creating a Machine Learning Model to predict the price of different properties! 🏠
+**Creating a Machine Learning Model to predict the price of different properties!** 🏠
 
 In this project we take a [Properati](https://www.properati.com.ar/ "Properati") dataset, this company is one of the biggest real state agencies in Argentina. To make a good ML Model, we need to work with good data quality, if data isn't good, probably our ML Model is going to be bad too. This dataset, particullary (not by coincidence) is a pleny of mesy data, null values, no meaningfull features, and duplicated values, we need to take care of this problem. (Keep calm I've gotcha ;) )
 
