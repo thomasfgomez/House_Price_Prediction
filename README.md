@@ -15,4 +15,4 @@ Our first attempt is to clear the data, make an EDA (exploratory data analysis),
 
 Let's see... in this part of the project, we have to split the dataset in train (70%) and test (30%) with cross-validation. Once we have that, our first mission is to run a Multiple Regression model and evaluate the metrics, this would be our benchmark model. We need to understand the metrics (R2, R2 adjusted, RMSE, and MAE). Taking this as a starting point, our work as ML engineers begin, we need to improve the metrics and achieve the best results that we can!   
 
-Check the code in the notebooks below! 😉👇🏻
+Check the code in the notebooks! 😉👇🏻
