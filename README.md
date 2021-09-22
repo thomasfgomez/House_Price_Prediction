@@ -3,7 +3,7 @@
 
 In this project we take a [Properati](https://www.properati.com.ar/ "Properati") dataset, this company is one of the biggest real state agencies in Argentina. To make a good ML Model, we need to work with good data quality, if data isn't good, probably our ML Model is going to be bad too. This dataset, particularly (not by coincidence) is plenty of messy data, null values, no meaningful features, and duplicated values, we need to take care of this problem. (Keep calm I've got this ;) )
 
-After that, we're going to jump into the ML Model, for this task we're going to apply cross-validation to the dataset and use Multiple Regression Models, Lasso and Ridge Regressions, Random Forest Model, and XG Boosting Model. 
+After that, we're going to jump into the ML Model, for this task we're going to apply cross-validation to the dataset and use Linear Regression Model, Lasso and Ridge Regressions, and Random Forest Model with GridSearchCV. 
 
 ## 1. Perform EDA (exploratory data analysis) and Data Wrangling
 
